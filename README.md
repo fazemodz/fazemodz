@@ -1,5 +1,5 @@
 # Hi there 👋
-## Im Alex, a 21 year old developer from the UK 
+## Im Alex, a 21 year old developer from the UK :gb:
 ## I'm curently studyng a HNC in computer science soon to be a BSC hons in computer science
 ### I can program in:
 - C#
