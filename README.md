@@ -24,8 +24,8 @@
 - Bootstrap
 - jQuery
 - React
+- NextJS 13 with TS
 ### Frameworks i want to learn or am learning:
-- Vue
 - Angular
 - Laravel
 - .NET
