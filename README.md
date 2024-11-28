@@ -4,15 +4,14 @@
 [![wakatime](https://wakatime.com/badge/user/ce04cdd2-bf07-4910-815f-0b8e448d11da.svg)](https://wakatime.com/@ce04cdd2-bf07-4910-815f-0b8e448d11da)
 ### I can program in:
 - C#
-- HTML
 - CSS
 - JavaScript
 - TypeScript
 - PHP
 - SQL
 - Unreal Blueprints
+- C++ (for UE5)
 ### Languages i want to learn or am learning:
-- C++ (learning for UE5)
 - Python (learning)
 - Java
 - C
@@ -27,7 +26,6 @@
 - NextJS 13 with TS
 ### Frameworks i want to learn or am learning:
 - Angular
-- Laravel
 - .NET
 ### Languages i can speak:
 - English
